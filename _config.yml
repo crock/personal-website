@@ -1,5 +1,6 @@
 layout: sidebar
 style: light
+repository: crock/personal-website
 
 plugins:
   - jekyll-octicons
